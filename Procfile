@@ -1,1 +1,1 @@
-web: bin/go-first-project
+web: go-first-project
